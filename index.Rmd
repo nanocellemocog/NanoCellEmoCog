@@ -1,0 +1,58 @@
+---
+title: "Dobrodošli na stranicu projekta NanoCellEmoCog"
+output: 
+  html_document:
+    #toc: true
+    #toc_depth: 2
+    #toc_float: true
+    theme: cerulean
+---
+<style type="text/css">
+h1.title {
+  font-size: 30px;
+}
+
+h1 { /* Header 1 */
+  font-size: 20px
+}
+</style>
+
+&NewLine;
+&NewLine;
+
+***
+<p align="center">
+  ![](LogoNanoCellEmoCog.png){width=40%}
+</p>
+
+&NewLine;
+
+***
+**Naziv projekta:** Neuroimmune aspects of mood, anxiety and
+cognitive effects of leads/drug candidates acting at
+GABAA and/or $\sigma2$ receptors: In vitro/in vivo
+delineation by nano- and hiPSC-based platforms
+
+&NewLine;
+
+**Akronim:** NanoCellEmoCog
+
+**NanoCellEmoCog** je projekat iz oblasti (bio)medicinskih nauka. Glavni cilj projekta je da se testira hipoteza da farmakokinetički optimizovana modulacija GABAA i $\sigma2$ receptora zasnovana na nanonosačima, sama ili u kombinaciji, dovodi do značajnih poboljšanja neuroimunih i/ili bihejvioralnih rezultata dobijenih kroz *in vitro* i *in vivo* sisteme napravljene da oponašaju kompromitovani neuroimuni status, koji se nalazi u osnovi različitih poremećaja centralnog nervnog sistema, a koji utiču na raspoloženje, uzrokuju anksioznost i kognitivne poremećaje.
+
+
+
+
+&NewLine;
+&NewLine;
+&NewLine;
+
+**Finansiranje:** Projekat je finansiran od strane Fonda za nauku Republike Srbije, u okviru projektnog poziva IDEJE. Projekat se realizuje na Farmaceutskom fakultetu, Univerziteta u Beogradu. 
+
+
+
+***
+<p align="center">
+<a href="http://www.pharmacy.bg.ac.rs/"><img src="FF.jpg" style="height:60px;"></a> &nbsp; &nbsp; &nbsp; 
+<a href="http://fondzanauku.gov.rs/"><img src="Fond.jpg" style="height:60px;"></a> &nbsp; &nbsp; &nbsp; 
+<a href="https://mpn.gov.rs/"><img src="LogoMPNTR.png" style="height:60px;"></a> 
+</p>
