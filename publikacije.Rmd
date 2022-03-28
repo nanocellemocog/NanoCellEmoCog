@@ -1,0 +1,21 @@
+---
+title: "Publikacije"
+output: 
+  html_document:
+    #toc: true
+    #toc_depth: 2
+    #toc_float: true
+    theme: cerulean
+
+---
+<style type="text/css">
+h1.title {
+  font-size: 30px;
+}
+
+h1 { /* Header 1 */
+  font-size: 20px
+}
+</style>
+***
+Na ovoj stranici će biti istaknute publikacije izrađene u okviru projektnih aktivnosti.
