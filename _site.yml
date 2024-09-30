@@ -11,8 +11,6 @@ navbar:
       href: publikacije.html
     - text: "Pitanja i odgovori"
       href: pitanjaiodgovori.html
-    - text: "SciBlog"
-      href: blog.html
     - text: "Kontakt"
       href: kontakt.html
   right:
