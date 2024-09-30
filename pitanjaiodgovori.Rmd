@@ -1,0 +1,43 @@
+---
+title: "Pitanja i odgovori"
+output: 
+  html_document:
+    #toc: true
+    #toc_depth: 2
+    #toc_float: true
+    theme: cerulean
+
+---
+<style type="text/css">
+h1.title {
+  font-size: 30px;
+}
+
+h1 { /* Header 1 */
+  font-size: 20px
+}
+</style>
+***
+# Šta je glavni cilj projekta?
+
+Integrišući najsavremenije platforme u istraživanju – humane ćelije dobijene od matičnih ćelija i nanotehnologiju – projekat ima za cilj da ispita potencijal supstanci, u čijim patentnim pravima Farmaceutski fakultet Univerziteta u Beogradu ima znatnog udela, da ostvare povoljne efekte na izmenjene emocije i oštećenu spoznaju,  i to preko mesta dejstva za koja do sada nisu razvijeni lekovi, sa naglaskom na ispitivanje uticaja na imunske mehanizme u mozgu.
+
+&NewLine;<br />
+
+# Šta predstavlja glavni problem ka kom su istraživanja usmerena?
+Poremećaji emocija i spoznaje predstavljaju veliko i rastuće opterećenje savremenog društva. Lekovi koji bi mogli da se koriste kod takvih poremećaja se teško razvijaju, što je posledica složenosti mehanizama regulacije viših nervnih funkcija, a delom i činjenice da je nervno tkivo zaštićeno od uticaja iz cirkulacije krvno-moždanom barijerom. Stoga, istraživanja usmerena ka otkriću i razvoju novih terapijskih koncepata kod poremećaja emocija i spoznaje moraju da koriste različite istraživačke tehnike i da integrišu nalaze dobijene na nivou različitih ćelija i organizma u celini.
+
+&NewLine;<br />
+
+# Koji teorijski koncept/metodologija će biti korišćena tokom realizacije projekta?
+Poznato je da se u osnovi mnogih psihijatrijskih i neurodegenerativnih poremećaja nalaze i neuroimunski mehanizmi. Poremećaji u regulaciji neuroimunskog odgovora mogu biti prouzrokovani kako infektivnim agensima, tako i fizičkim i psihičkim stresom, koji utiču na različite tipove ćelija u nervnom tkivu. U NanoCellEmoCog projektu uspostavićemo sistem pogodan za in vitro, ex vivo i in vivo ispitivanja odabranih supstanci, kao bi se procenili njihovi biološki i bihejvioralni efekti kod navedenih poremećaja. Sa tom idejom integrisaće se nanotehnološki pristup u dizajniranju nosača za ove molekule (kako bi se obezbedila njihova sigurna i bezbedna isporuka do željenih ćelija i mesta delovanja), sa humanim pluripotentnim matičnim ćelijama, odgovarajućim animalnim modelima i metodama mašinskog učenja. Ovakav metodološki koncept za sada predstavlja jedinstven pristup u istraživanju.
+
+&NewLine;<br />
+
+# Koji su očekivani rezultati istraživanja projektnog tima?
+Kada je potrebno tretirati određene poremećaje centralnog nervnog sistema (npr. emotivne i kognitivne poremećaje), isporuka lekova u mozak do danas predstavlja poseban izazov zbog postojanja vrlo moćne zaštitne barijere koju je neophodno prevazići kako bi se potrebne količine terapijskih molekula našle na mestu dejstva i ostvarile svoje efekte. U tom kontekstu, jedan od očekivanih rezultata istraživanja NanoCellEmoCog projekta ogleda se u razvoju unapređenih nanonosača za poboljšanu isporuku aktivnih molekula u mozak. Takođe, očekuje se i da će se istraživanjem patentno zaštićenih molekula i lekova-kandidata dobiti značajni nalazi u pogledu njihovih efekata na zajedničke patološke mehanizme odgovorne za nastanak anksioznih, kognitivnih i poremećaja raspoloženja. Time bi se otvorile mogućnosti za stvaranje novih i proširenje već publikovanih patenata Farmaceutskog fakulteta Univerziteta u Beogradu. Konačno, očekuje se da će se kroz integraciju nanotehnologije, istraživanja na odabranim ćelijskim linijama, te na oglednim životinjama, popuniti globalno prepoznati metodološki nedostaci, uz stvaranje algoritma koji bi se mogao koristiti u pretkliničkom razvoju lekova – nezavisno od indikacije i mesta dejstva ispitivanog jedinjena/leka-kandidata.
+
+&NewLine;<br />
+
+# Da li u okviru Vašeg projekta postoji mogućnost saradnje sa privredom?
+U okviru samog projekta oslonićemo se na kompetencije i motivaciju multidisciplinarnog istraživačkog tima, uz podršku inostranih naučno-istraživačkih institucija iz SAD (University of Wisconsin), Nemačke (Eberhard Karls University Tübingen), Kine (Guangdong Medical University) i Grčke (National Hellenic Research Foundation). Afirmativni ishodi projekta otvoriće brojne mogućnosti saradnje sa privredom, i to farmaceutskom industrijom koja ima kapacitet finansiranja i sprovođenja regulatorno definisanih i visoko zahtevnih faza prekliničkog i kliničkog razvoja.
