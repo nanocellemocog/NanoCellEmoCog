@@ -1,0 +1,49 @@
+---
+title: "Toolbox"
+#runtime: shiny
+output: 
+  html_document:
+    #toc: true
+    #toc_depth: 2
+    #toc_float: true
+    theme: cerulean
+    
+
+---
+<style type="text/css">
+h1.title {
+  font-size: 30px;
+}
+
+h1 { /* Header 1 */
+  font-size: 20px
+}
+</style>
+***
+
+Rezultati prikupljeni tokom realizacije NanoCellEmoCog projekta Fonda za nauku Republike Srbije omogućili su kreiranje sledećeg alata za određivanje optimalne vrste lipidne nanoformulacije za *hits / leads / drug candidates (DC) / active pharmaceutical ingredients (API)* slabo rastvorljive u vodi. Iako može biti interesantan i istraživačima koji razvijaju formulacije za druge puteve primene, alat trenutno koristi bazu podataka fokusiranu na formulacije za parenteralnu primenu.
+
+&NewLine;
+&NewLine;
+
+
+<iframe height="450" width="100%" frameborder="no" src="https://nanocellemocog.shinyapps.io/my_app/"> </iframe>
+
+
+&NewLine;
+&NewLine;
+
+\* Napomena:
+
+1. Potrebno je odrediti rastvorljivost supstance (*hits / leads / drug candidates (DC) / active pharmaceutical ingredients (API)*) u uljima koja imaju status farmaceutskog ekscipijensa odobrenog za parenteralni/oralni put primene (npr. sojino ulje, ricinusovo ulje, trigliceridi srednje dužine lanca) pojedninačno ili u smešama (uobičajeni odnosi srednje i dugolančanih triglicerida 1:1, 2:1 ili 4:1, m/m) kako bi se odabrao optimalni sastav masne faze. 
+
+2. Ukoliko se ne dobije adekvatna rastvorljivost u uljima, smeši se mogu dodati čvrsti amfifiilni lipidi (npr. lecitin/ulje u odnosu 1:10).
+
+3. Uobičajeno, za udeo masne faze od 20 % u finalnoj formulaciji minimalno potrebna rastvorljivost ispitivane supstance u uljima iznosi oko 7,5 mg/ml, što korespondira sa minimalnom koncentracijom supstance u formulaciji od 1,5 mg/ml, i u vezi je sa doznim režimom tokom prekliničkih farmakodinamskih i farmakokinetičkih studija kandidata za lek (parenteralni i oralni put primene).
+
+&NewLine;
+&NewLine;
+
+Za dodatne informacije konsultovati rezultate
+[publikovane](https://nanocellemocog.github.io/NanoCellEmoCog/publikacije.html) u okviru projekta ili
+[kontaktirati](https://nanocellemocog.github.io/NanoCellEmoCog/kontakt.html) NanoCellEmoCog tim.
