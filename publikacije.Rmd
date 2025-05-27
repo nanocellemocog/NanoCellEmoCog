@@ -21,6 +21,24 @@ h1 { /* Header 1 */
 
 # Originalni naučni radovi 
 
+- Ivanović J., Aranđelović J., Jezdić K., Divović Matović B., Jančić I., Batinić B., Sharmin D., Mondal P., Cook J. M., Savić M. M.. *Sex-dependent changes induced by combined low-level systemic inflammation and chronic mild unpredictable stress in rats are partially attenuated by positive modulation of α5 GABAA receptors*. Pharmacology Biochemistry and Behavior. 2025; 253:174032 (Q1; M21	Pharmacology, IF 3.3)
+https://doi.org/10.1016/j.pbb.2025.174032
+
+- Jezdić K., Đoković J., Jančić I., Ilić T., Bufan B., Marković B., Ivanović J., Stanković T., Cekić N. D., Papadimitriou V., Sharmin D., Mondal P., Cook J. M., Savić S. D., Savić M. M.. *Parenteral Nanoemulsion for Optimized Delivery of GL-II-73 to the Brain—Comparative In Vitro Blood–Brain Barrier and In Vivo Neuropharmacokinetic Evaluation*. Pharmaceutics. 2025; 17(3):354 (Q1; M21	Pharmaceutics, IF 4.9)
+https://doi.org/10.3390/pharmaceutics17030354
+
+- Stanković T., Ilić T., Divović Matović B., Petković M., Dobričić V., Jančić I., Bufan B., Jezdić K., Đoković J., Pantelić I., Ranđelović D., Sharmin D., Cook J. M., Savić M. M., Savić S.. *Intravenous Nanoemulsions Loaded with Phospholipid Complex of a Novel Pyrazoloquinolinone Ligand for Enhanced Brain Delivery*. Pharmaceutics. 2025; 17(2):232 (Q1; M21	Pharmaceutics, IF 4.9)
+https://doi.org/10.3390/pharmaceutics17020232
+
+- Nikolić I., Đoković J., Mehn D., Guerrini G., Savić S., Jordan O., Borchard G.. *When conventional approach in toxicity assays falls short for nanomedicines: a case study with nanoemulsions*. Drug Delivery and Translational Research. 2025. (Q1; M21  	Pharmacology & Pharmacy, IF 5.7)
+https://doi.org/10.1007/s13346-024-01776-7
+
+- Gajić Bojić M., Aranđelović J., Škrbić R. Savić M. M.. *Peripheral GABAA receptors - Physiological relevance and therapeutic implications*. Pharmacology & Therapeutics. 2025; 266: 108759. (Q1; M21a Pharmacology, IF 12.0)
+https://doi.org/10.1016/j.pharmthera.2024.108759
+
+- Aranđelović J., Ivanović J., Batinić B., Mirković K., Divović Matović B., Savić M. M.. *Sucrose binge-eating and increased anxiety-like behavior in Sprague-Dawley rats exposed to repeated LPS administration followed by chronic mild unpredictable stress*. Scientific Reports. 2024; 14(1):22569. (Q1; M21 Psychology, IF 3.8)
+https://doi.org/10.1038/s41598-024-72450-8
+
 - Đoković J. B., Demisli S., Savić S. M., Savić S. R., Ranđelović D. V., Marković B. D., Pantelić I., Mitrović J. R., Stanković T., Papadimitrou V., Xenakis A., Savić S. D.. *Evaluation of PEGylation efficacy of curcumin-loaded nanoemulsions using complementary methods to assess protein interactions and physicochemical properties*. Journal of Molecular Liquids. 2024; 404: 124888. (Q1; M21 Pharmaceutics, IF 5.3)
 https://doi.org/10.1016/j.molliq.2024.124888
 
@@ -41,6 +59,18 @@ https://doi.org/10.1016/j.ejps.2023.106557
 &nbsp; &nbsp; &nbsp; 
 
 # Saopštenja na konferencijama
+
+- [**Design of lipid nanoemulsions loaded with CW-02-79-phospholipid complex for targeted brain delivery: focus on stability in protein-enriched media**](https://innovdelivery.wixsite.com/innov-delivery-25)
+
+   Autori: Stanković, Tijana; Ilić, Tanja; Tošić, Anđela; Cook, James M.; Savić, Miroslav; Savić, Snežana
+   
+   Innov Delivery’25 – Il Lusophone Meeting on Innovative Delivery Systems, 7 February 2025, (hybrid event)
+
+- [**Lipid-based nanoparticulated systems intended for brain delivery of patented leads/drug candidates acting at GABAA receptors – formulation approach, in vitro and in vivo research platforms**](https://innovdelivery.wixsite.com/innov-delivery-25)
+
+   Autori: Savić, Snežana
+   
+   Innov Delivery’25 – Il Lusophone Meeting on Innovative Delivery Systems, 7 February 2025, (hybrid event)
 
 - [**Neuropharmacokinetic profiles of GL-II-73, a positive allosteric modulator of α5GABAA receptors, and its metabolite MP-III-022: nanoemulsion vs solution formulation comparison**](https://farfar.pharmacy.bg.ac.rs/handle/123456789/5787)
 
